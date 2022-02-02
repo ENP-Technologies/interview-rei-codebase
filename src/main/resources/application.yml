@@ -1,0 +1,11 @@
+server:
+  port: 8003
+  
+spring:
+  application:
+    name: interview
+
+
+  banner:
+    charset: UTF-8
+    location: classpath:banner.txt
