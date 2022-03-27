@@ -54,6 +54,7 @@ public class ProductNewRestService {
 		
 	
 		try {
+			System.out.println("Modified");
 			
 //			URL csvFile = getClass().getClassLoader().getResource("products2.csv");
 //			String csvFilePath = csvFile.toString().replaceAll("%20", " ").replace("file:/", "").replace("/","\\");
